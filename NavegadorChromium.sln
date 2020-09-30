@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavegadorChromium", "NavegadorChromium\NavegadorChromium.csproj", "{4BE9BDE4-DC5B-43FA-9ED3-CEC947CE00EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE9BDE4-DC5B-43FA-9ED3-CEC947CE00EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE9BDE4-DC5B-43FA-9ED3-CEC947CE00EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE9BDE4-DC5B-43FA-9ED3-CEC947CE00EB}.Debug|x86.ActiveCfg = Debug|x86
+		{4BE9BDE4-DC5B-43FA-9ED3-CEC947CE00EB}.Debug|x86.Build.0 = Debug|x86
+		{4BE9BDE4-DC5B-43FA-9ED3-CEC947CE00EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE9BDE4-DC5B-43FA-9ED3-CEC947CE00EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE9BDE4-DC5B-43FA-9ED3-CEC947CE00EB}.Release|x86.ActiveCfg = Release|x86
+		{4BE9BDE4-DC5B-43FA-9ED3-CEC947CE00EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9881C902-DDA6-44F1-8F22-B422E871AA32}
+	EndGlobalSection
+EndGlobal
